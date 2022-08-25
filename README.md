@@ -26,7 +26,7 @@ Unacceptable conflicts of interest are produced by models that personally compen
 
 It is frequently recommended to ask whether an advisor is a [fiduciary](https://www.nerdwallet.com/article/investing/fiduciary), which in the US means they're obligated to act in your best interest. This is a good question to ask, but you should never feel comforted that an advisor's interests are actually aligned with yours simply because they have a fiduciary obligation.
 
-An advisor who provides ongoing services for (say) 1% of your investable assets per year becomes extremely expensive in the long run. This plot from the [section on retirement](https://github.com/investindex/Retirement) illustrated that, even for someone with modest savings, an increase of just a single percentage point in your average returns can result in hundreds of thousands to over a million dollars more wealth by retirement. If your savings habits are greater than in the example, the dollar amounts just get bigger. You earn a lot of money by doing your own financial planning.
+An advisor who provides ongoing services for (say) 1% of your investable assets per year becomes extremely expensive in the long run. This plot from the [section on retirement](https://github.com/investindex/Retirement) illustrated that, even for someone with modest savings, an increase of just a single percentage point in your average returns can result in hundreds of thousands to over a million dollars more wealth by retirement. If your savings habits are greater than in the example, the dollar amounts just get bigger. Compared to an advisor who charges according to assets under management (AUM), you earn a lot of money by doing your own financial planning. Most people don't appreciate how expensive 1% per year can be.
 
 &nbsp;
 
@@ -36,7 +36,7 @@ An advisor who provides ongoing services for (say) 1% of your investable assets 
 
 &nbsp;
 
-Some people are willing to pay a great deal for financial services. They may find the prospect of doing it themselves boring, overwhelming, or too time-consuming. That's up to you. But if you're motivated enough to read a detailed guide like this, it's likely that you should seek professional services only for specific needs that require expertise, rather than broad financial planning and implementation. Even if the advice is on creating an investment plan, it's best to consult someone who charges hourly, rather than an advisor who absorbs part of your assets each year. Special needs could include tax advice for a complex situation with a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant), or establishment of a trust with an estate planning attorney.
+Some people are willing to pay a great deal for financial services. They may find the prospect of doing it themselves boring, overwhelming, or not worth their time. That's up to you. But if you're motivated enough to read a detailed guide like this, it's likely that you should seek professional services only for specific needs that require expertise, rather than broad financial planning and implementation. Even if the advice is on creating an investment plan, it's best to consult someone who charges hourly, rather than an advisor who absorbs part of your assets each year. Special needs could include tax advice for a complex situation with a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant), or establishment of a trust with an estate planning attorney.
 
 &nbsp;
 
