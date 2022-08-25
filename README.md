@@ -28,9 +28,13 @@ It is frequently recommended to ask whether an advisor is a [fiduciary](https://
 
 An advisor who provides ongoing services for (say) 1% of your investable assets per year becomes extremely expensive in the long run. This plot from the [section on retirement](https://github.com/investindex/Retirement) illustrated that, even for someone with modest savings, an increase of just a single percentage point in your average returns can result in hundreds of thousands to over a million dollars more wealth by retirement. If your savings habits are greater than in the example, the dollar amounts just get bigger. You earn a lot of money by doing your own financial planning.
 
+&nbsp;
+
 <p align="center">
 <img src="https://github.com/investindex/Retirement/blob/main/Nest%20Egg.png" width="630" height="540"/>
 </p>
+
+&nbsp;
 
 Some people are willing to pay a great deal for financial services. They may find the prospect of doing it themselves boring, overwhelming, or too time-consuming. That's up to you. But if you're motivated enough to read a detailed guide like this, it's likely that you should seek professional services only for specific needs that require expertise, rather than broad financial planning and implementation. Even if the advice is on creating an investment plan, it's best to consult someone who charges hourly, rather than an advisor who absorbs part of your assets each year. Special needs could include tax advice for a complex situation with a [CPA](https://en.wikipedia.org/wiki/Certified_Public_Accountant), or establishment of a trust with an estate planning attorney.
 
