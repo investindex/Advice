@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Advice
 
 In his 2016 letter to Berkshire Hathaway shareholders, Warren Buffett wrote:
